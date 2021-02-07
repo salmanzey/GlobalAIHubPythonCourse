@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse
 ![](img/logo.png)
 
-**Course Date:** 10.04.2000  
+**Course Date:** 01.02.2021 - 05.02.2021  
 **Name:** Zeynep  
 **Surname:** Salman  
 **Email:** salmanz@mef.edu.tr  
