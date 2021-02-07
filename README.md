@@ -7,7 +7,7 @@
 **Email:** salmanz@mef.edu.tr  
 
 ## Project Name
-Description of your project.
+GlobalAIHubPythonCourse Homeworks and Final Project
 
 ## Requirements
 ```
